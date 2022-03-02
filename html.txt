@@ -1,0 +1,8 @@
+
+public class vungocquynh_App
+{
+	public static void main(String[] args) 
+	   {
+		   System.out.println("vu ngoc quynh hoc Java!");
+	   }
+} 
